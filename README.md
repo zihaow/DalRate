@@ -5,7 +5,7 @@ DalRate is an unofficial iOS app that can provide ratings for perspective and cu
 Export this project to Xcode, you can run it on simulator or on your iPhone if you are a registered iOS developer.
 
 ##DalRate Menu
-![alt tag](http://res.cloudinary.com/zihaow/image/upload/v1481740337/%E7%9B%B8%E7%89%87_2016-12-14_14_29_57_svpl0b.png)
+![alt tag](http://res.cloudinary.com/zihaow/image/upload/v1481740337/%E7%9B%B8%E7%89%87_2016-12-14_14_29_57_svpl0b.png  width="48" height="48")
 
 ##Table view for Computer Science courses
 ![alt tag](http://res.cloudinary.com/zihaow/image/upload/v1481740337/%E7%9B%B8%E7%89%87_2016-12-14_14_30_11_aessv5.png)
