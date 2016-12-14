@@ -2,7 +2,7 @@
 DalRate is an unofficial iOS app that can provide ratings for perspective and current students at Dalhousie University. The app gives students an overview of a specific course at the Faculty of Computer Science. Students can also rate courses at their choices.
 
 ## To run
-Export to project to Xcode, click run on simulator or on your iPhone if you are a registered iOS developer.
+Export this project to Xcode, you can run it on simulator or on your iPhone if you are a registered iOS developer.
 
 ##DalRate Menu
 ![alt tag](http://res.cloudinary.com/zihaow/image/upload/v1481740337/%E7%9B%B8%E7%89%87_2016-12-14_14_29_57_svpl0b.png)
